@@ -15,8 +15,8 @@ public class LoginPage {
 	
 	public LoginPage(WebDriver driver) {PageFactory.initElements(driver, this);}
 	public void selectloginas() {loginas.click();}
-	public void enterUser() {user.sendKeys("7709395679");}
-	public void selectPassword() {password.sendKeys("pra13nay@");}
+	public void enterUser() {user.sendKeys("0000000000");}
+	public void selectPassword() {password.sendKeys("abcdef");}
 	public void selectlogin() {login.click();}
 	
 	
