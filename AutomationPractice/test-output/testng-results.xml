@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-03T07:29:08 IST" name="Default suite" finished-at="2022-08-03T07:29:34 IST" duration-ms="26811">
+    <groups>
+    </groups>
+    <test started-at="2022-08-03T07:29:08 IST" name="Default test" finished-at="2022-08-03T07:29:34 IST" duration-ms="26811">
+      <class name="testclasses.TestClass">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:testclasses.TestClass@3e92efc3]" started-at="2022-08-03T07:29:08 IST" name="openBrowser" finished-at="2022-08-03T07:29:20 IST" duration-ms="12012" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="test()[pri:0, instance:testclasses.TestClass@3e92efc3]" started-at="2022-08-03T07:29:20 IST" name="test" finished-at="2022-08-03T07:29:34 IST" duration-ms="14556" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testclasses.TestClass@3e92efc3]" started-at="2022-08-03T07:29:34 IST" name="closeBrowser" finished-at="2022-08-03T07:29:34 IST" duration-ms="193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testclasses.TestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
