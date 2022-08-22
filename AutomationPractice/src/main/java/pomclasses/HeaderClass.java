@@ -14,6 +14,7 @@ public class HeaderClass {
 	@FindBy(xpath="//a[text()='Women']") private WebElement women;
 	@FindBy(xpath="(//a[text()='Dresses'])[2]")private WebElement dresses;
 	@FindBy(xpath="(//a[text()='T-shirts'])[2]") private WebElement t_shirt;
+	pran
 	  public HeaderClass(WebDriver driver)
 	   {PageFactory.initElements(driver, this);
 		   this.driver=driver;
